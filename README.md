@@ -1,4 +1,6 @@
 # Welcome to your Expo app 👋
+BIT220169 nGUYỄN ĐÌNH VIỆT
+![image](https://github.com/user-attachments/assets/900c0ee4-b398-4ff2-a7c8-e03710ed6822)
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
